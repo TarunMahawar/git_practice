@@ -1,1 +1,1 @@
-Only on master
+Only on master branch.
